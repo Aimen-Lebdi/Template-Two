@@ -122,6 +122,11 @@ header .container::after {
   bottom: 0;
   left: 15px;
 }
+header .container .logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 header .container .logo img {
   height: 40px;
 }
