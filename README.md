@@ -1,2 +1,1 @@
-# Template-Two
-https://aimen-lebdi.github.io/Template-Two/
+https://template-two-ecru.vercel.app/
